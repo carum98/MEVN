@@ -1,2 +1,2 @@
  # Lista de tareas con MEVN
- ![Screenshot](menv.png) 
+ ![Screenshot](https://github.com/carum98/MEVN/blob/master/menv.PNG) 
